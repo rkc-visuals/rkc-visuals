@@ -10,7 +10,7 @@ A premium one-page portfolio website for RKC Visuals.
 
 ## Before publishing
 Replace these placeholders in `index.html`:
-- `hello@rkcvisuals.com`
+- `business.rkcvisuals@gmail.com`
 - `https://instagram.com/rkcvisuals`
 - `https://wa.me/919999999999`
 
