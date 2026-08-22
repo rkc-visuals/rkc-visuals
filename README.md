@@ -1,16 +1,23 @@
-## Hi there 👋
+# RKC Visuals Website
 
-<!--
-**rkc-visuals/rkc-visuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A premium one-page portfolio website for RKC Visuals.
 
-Here are some ideas to get you started:
+## Files
+- `index.html` — page structure and content
+- `style.css` — responsive design
+- `script.js` — mobile navigation, scroll reveal and interactions
+- `assets/` — put your project images/videos here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Before publishing
+Replace these placeholders in `index.html`:
+- `hello@rkcvisuals.com`
+- `https://instagram.com/rkcvisuals`
+- `https://wa.me/919999999999`
+
+Also replace the project placeholder blocks with your actual portfolio media.
+
+## Cloudflare Pages
+Connect this repository to Cloudflare Pages.
+Framework preset: None
+Build command: leave blank
+Build output directory: `/`
