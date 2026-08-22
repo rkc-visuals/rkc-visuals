@@ -12,7 +12,7 @@ A premium one-page portfolio website for RKC Visuals.
 Replace these placeholders in `index.html`:
 - `business.rkcvisuals@gmail.com`
 - `https://instagram.com/rkcvisuals`
-- `https://wa.me/919999999999`
+- `https://wa.me/918209739299`
 
 Also replace the project placeholder blocks with your actual portfolio media.
 
